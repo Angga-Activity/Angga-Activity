@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 **Pemula**
+# 🚀 **Pemula a**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%26+Python+Enthusiast;Building+Amazing+Web+Experiences" alt="Typing SVG" />
 
