@@ -75,7 +75,7 @@ const currentFocus = {
 ## 🌟 **Featured Projects**
 
 <div align="center">
-  <a href="https://github.com/GanzzTzy/galaxy-script">
+  <a href="https://github.com/Angga-Activity/galaxy-script">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GanzzTzy&repo=galaxy-script&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Galaxy Script" />
   </a>
 </div>
@@ -86,9 +86,9 @@ const currentFocus = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GanzzTzy)
+[![LinkedIn](https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/in/GanzzTzy)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganzzcute@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GanzzTzy)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Angga-Activity)
 
 </div>
 
