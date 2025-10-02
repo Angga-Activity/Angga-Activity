@@ -15,7 +15,7 @@
 
 ### **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,webpack,mongodb,mysql&perline=8&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,webpack,mongodb,mysql&perline=8&theme=dark" alt="Tools" />
 </p>
 
 ---
